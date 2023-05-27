@@ -1,7 +1,7 @@
 # app-dev
 My first repository
-###### Favorite movie
-###### Favorite series
+#### Favorite movie
+#### Favorite series
 ## *Kingsman: The Secret Service*
 ______________________________________________________________________
 Kingsman: The Secret Service is a great and fantastic movie, from the plot, choreography, cast choices, action scenes, suspense, violence, and humor. It is one of
